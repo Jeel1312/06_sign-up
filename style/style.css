@@ -1,0 +1,58 @@
+
+.page{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1200px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 200px;
+    border: 2px solid rgb(220, 219, 219);
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(133, 133, 133);
+}
+
+.detail{
+    margin-top: 25px;
+    float: left;
+    width: 600px;
+
+}
+
+h1{
+    margin-left: 200px;
+    
+}
+
+input{
+    margin: 15px;
+    width: 250px;
+    height: 25px;
+    padding: 3px;
+    
+}
+i{  margin-left: 60px;
+    width: 15px;
+}
+.term{
+    margin-left: -50px;
+}
+
+label{
+    margin-left: -120px;
+}
+
+button{
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 110px;
+    height: 30px;
+    color: white;
+    background-color: rgb(24, 24, 238) ;
+    border: none;
+    border-radius: 5px ;
+}
+img{
+    width: 600px;
+    height: 500px;
+    border-radius: 0px 10px 10px 0px;
+}
